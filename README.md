@@ -9,6 +9,7 @@ Dự án thiết kế và xây dựng Kiến trúc Dữ liệu cho FPT Long Châ
 - [Kế hoạch Truyền thông (Communication Plan)](docs/communication_plan.md) - Quy định tần suất, kênh giao tiếp và nguyên tắc an toàn thông tin khi phối hợp.
 - [Kế hoạch Khảo sát đã Phê duyệt (Approved Survey Plan)](docs/approved_survey_plan.md) - Ghi nhận trạng thái phê duyệt chính thức và định hướng triển khai các Work Packages.
 - [Bản đồ Stakeholders và Ma trận RACI (Stakeholder RACI Map)](docs/stakeholder_raci_map.md) - Xác định chi tiết các Data Owners, Data Stewards, Data Engineers và ma trận trách nhiệm quản trị dữ liệu.
+- [Danh mục Hệ thống & Nguồn dữ liệu (Data Inventory Matrix)](docs/data_inventory_matrix.md) - Thống kê, phân loại và lập danh mục toàn bộ các hệ thống ứng dụng nghiệp vụ, cơ sở dữ liệu vật lý (SQL, NoSQL), môi trường lưu trữ và dữ liệu ngoại vi.
 
 ## Cấu trúc Thư mục
 
@@ -18,4 +19,5 @@ Dự án thiết kế và xây dựng Kiến trúc Dữ liệu cho FPT Long Châ
   - `communication_plan.md`: Kế hoạch truyền thông và phối hợp.
   - `approved_survey_plan.md`: Kế hoạch khảo sát đã được PO duyệt.
   - `stakeholder_raci_map.md`: Bản đồ stakeholders và ma trận RACI dự án.
+  - `data_inventory_matrix.md`: Danh mục hệ thống và nguồn dữ liệu vật lý.
 - `models/`: Thư mục chứa các tệp mô hình hóa kiến trúc (ArchiMate, DFD, v.v.).
