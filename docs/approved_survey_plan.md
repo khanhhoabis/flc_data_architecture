@@ -27,7 +27,7 @@ Tài liệu này ghi nhận phiên bản kế hoạch khảo sát hiện trạng
 | Mã WP | Tên Work Package | Thành viên chịu trách nhiệm | Trạng thái hiện tại |
 | :--- | :--- | :--- | :--- |
 | **WP1** | Chuẩn bị & Khởi động dự án | ea_consultant | **Hoàn thành (Done)** |
-| **WP2** | Xác định & Lập bản đồ Stakeholders (RACI) | ea_consultant | **Đang thực hiện (In Progress)** |
+| **WP2** | Xác định & Lập bản đồ Stakeholders (RACI) | ea_consultant | **Hoàn thành (Done)** |
 | **WP3** | Khảo sát Danh mục Hệ thống & Nguồn dữ liệu | data_architect | Chờ kích hoạt (Backlog) |
 | **WP4** | Khảo sát Cấu trúc, Từ điển & Phân loại Dữ liệu | data_architect | Chờ kích hoạt (Backlog) |
 | **WP5** | Khảo sát Luồng thông tin & Tích hợp (Data Lineage) | data_engineer | Chờ kích hoạt (Backlog) |
